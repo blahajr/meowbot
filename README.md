@@ -17,6 +17,7 @@ pip -r requirements.txt
 
 ```sh
 install requirements and configure your bot token and server id blah blah pull requests open
+```
 
 ## Author
 
