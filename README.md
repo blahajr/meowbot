@@ -10,7 +10,7 @@
 ## Install
 
 ```sh
-pip: -r requirements.txt
+pip -r requirements.txt
 ```
 
 ## Usage
