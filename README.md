@@ -36,4 +36,6 @@ Give a ⭐️ if this project is cool :3
 Copyright © 2023 [kisaki](https://github.com/kisakimeowr).<br />
 This project is [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) licensed.
 
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
 
