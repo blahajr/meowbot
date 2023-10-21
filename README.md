@@ -16,8 +16,7 @@ pip: -r requirements.txt
 ## Usage
 
 ```sh
-install requirements and configure your bot token and server id blah blah pull requests open if you for some reason want to??
-```
+install requirements and configure your bot token and server id blah blah pull requests open
 
 ## Author
 
@@ -27,16 +26,14 @@ install requirements and configure your bot token and server id blah blah pull r
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kisakimeowr/meowbot/issues). You can also take a look at the [contributing guide](https://github.com/kisakimeowr/meowbot/pulls).
-
+Contributions and Issues are welcome!!<br />Feel free to check [issues page](https://github.com/kisakimeowr/meowbot/issues)
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project is cool :3
 
 ## 📝 License
 
 Copyright © 2023 [kisaki](https://github.com/kisakimeowr).<br />
 This project is [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) licensed.
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
