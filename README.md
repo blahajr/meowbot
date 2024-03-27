@@ -16,7 +16,7 @@ pip -r requirements.txt
 ## Usage
 
 ```sh
-install requirements and configure your bot token and server id blah blah pull requests open
+install requirements and configure your bot token and server id 
 ```
 
 ## Author
