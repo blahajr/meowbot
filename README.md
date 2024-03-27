@@ -23,7 +23,7 @@ install requirements and configure your bot token and server id
 
 👤 **kisaki**
 
-* Github: [@kisakimeowr](https://github.com/kisakimeowr)
+* Github: [@blahajr](https://github.com/blahajr)
 
 ## 🤝 Contributing
 
